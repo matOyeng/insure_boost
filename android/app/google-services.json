@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051188113619",
+    "project_id": "insurance-375d9",
+    "storage_bucket": "insurance-375d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051188113619:android:3525d045f0da0cae0ea426",
+        "android_client_info": {
+          "package_name": "com.example.insure_boost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051188113619-q6mhn6qa4udcghgtfp8ltpnbpdpddhtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONMCeVN5jDhHRzbuGuoq6R9wmjHtbBdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051188113619-q6mhn6qa4udcghgtfp8ltpnbpdpddhtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
